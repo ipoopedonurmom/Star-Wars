@@ -1,3 +1,5 @@
+
+
 .header {
     background-color: black;
     margin: 0px;
@@ -39,6 +41,9 @@ li{
 background-image:url("https://images.hdqwalls.com/download/kylo-ren-star-wars-1920x1080.jpg");
 background-size: cover;
 position: relative;
+margin:20px;
+  border: 4px solid rgb(211, 80, 80);
+  border-radius:20px ;
   }
 .position1 {
     position: absolute;
@@ -74,12 +79,18 @@ opacity: 1;
   height: 675px;
   background-size: cover;
   position: relative;
+  margin:20px;
+  border: 4px solid rgb(211, 82, 78);
+  border-radius:20px ;
 }
 .ats {
   background-image: url("https://4kwallpapers.com/images/wallpapers/ahsoka-tano-star-3840x2160-12822.jpg");
   height: 675px;
   background-size: cover;
   position: relative;
+  margin:20px;
+  border: 4px solid rgb(211, 82, 82);
+  border-radius:20px ;
 }
 .lts {
   position: absolute;
